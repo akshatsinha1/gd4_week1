@@ -12,10 +12,7 @@ public class PlayerController2D : MonoBehaviour
         horizontalMovement = Input.GetAxis("Horizontal");
 
        
-        //if(transform.position.x > 8.5)
-        //{
-        //    transform.position = new Vector3(8.5f, 0, 0);
-        //}
+        
        
 
         //uses the input to move the player character
